@@ -1,0 +1,8 @@
+int methode(int a, char b)
+void methode()
+int methode(int a)
+int methode(char b, int a)
+int methode(int b, char a)
+void methode(int a, char b)
+int methode(int a, char b, float c)
+
